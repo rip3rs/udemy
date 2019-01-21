@@ -1,0 +1,10 @@
+{
+  "name": "nodejsudemycourse",
+  "version": "1.0.0",
+  "description": "NodeJS Udemy Course",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
